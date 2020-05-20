@@ -21,6 +21,7 @@ public class ProbarGit {
     car.encender();
     car.gasolina();
     car.apagar();
+    car.frenar();
         
     }
 }
